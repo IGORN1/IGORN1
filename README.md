@@ -1,4 +1,4 @@
-### Hi there , Eu sou o Igor
+### Oi, Eu sou o Igor
 
 - 🔭 Estou mudando minha area de atuaca e quero atuar como DATA SCIENCE
 - 🌱 Estou estudando Java Script, TypeScript, React, HTML, Phyton e C#
