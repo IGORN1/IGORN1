@@ -2,7 +2,13 @@
 ## I'm Igor Barreto
 - I live in :brazil:
 - I am Data Science Developer 💻
-- I have been learnig more about React, Typescript and tests 🚀
+- I have been learnig more about React, Phyton, Typescript and tests 🚀
+
+<div align="center">
+  <a href="https://github.com/IGORN1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IGORN1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGORN1&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/igor-moreira-barreto-005102b5/" target="_blank">
@@ -17,9 +23,5 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
-
-
-## Learning
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 
 ![Snake animation](https://github.com/barretogustavo/barretogustavo/blob/output/github-contribution-grid-snake.svg)
